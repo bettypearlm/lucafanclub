@@ -22,10 +22,10 @@ Black HEX color code: #000000
 
 // HIGH PRIORITY CHANGES
 // 2. Change project name and colours:
-const companyName = 'NOTFLIX'
-const companyNameColor = '#E50914'
+const companyName = 'THE OFFICIAL LUCA FAN CLUB'
+const companyNameColor = '#7AC32F'
 
-const buttonBackgroundColor = '#E50914'
+const buttonBackgroundColor = '7AC32F'
 const buttonTextColor = '#FFFFFF' // Make this either black (#000000) or white (#FFFFFF) depending on what is easiest to read on your button color of choice
 
 // 3. Update social media links:
@@ -38,11 +38,11 @@ const tiktokLink = 'https://tiktok.com'
 const discordLink = 'https://discord.com'
 
 // 4. Update header and description texts:
-const headerText = 'Unlimited films, TV programmes and more' // One-line description of what you will offer customers
-const descriptionText = 'Watch anywhere. Cancel at any time.' // More detailed description of what you will offer customers
+const headerText = 'The number 1 place to join the Luca fan club.' // One-line description of what you will offer customers
+const descriptionText = 'Tell him he's awesome, tell him you love him.' // More detailed description of what you will offer customers
 
 // 5. Update contact email:
-const contactEmail = 'example@notflix.com'
+const contactEmail = 'bettypearl99@gmail.com'
 
 // LOW PRIORITY CHANGES
 // Branding: Update with different background and text colors if needed
@@ -53,10 +53,10 @@ const pageTextColor = '#000000'
 const socialMediaCallToAction = 'Find us on social media'
 
 // Waitlist: Update the call to action with your own
-const waitlistCallToAction = 'Join the wait-list'
+const waitlistCallToAction = 'Join the fanmail response list'
 
 // Calendly: Update the calls to action with your own
-const meetingCallToAction = 'Talk to us'
+const meetingCallToAction = 'Meet Luca's GF'
 const meetingButtonText = 'Schedule a meeting'
 
 
