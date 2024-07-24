@@ -56,7 +56,7 @@ const socialMediaCallToAction = 'Find us on social media'
 const waitlistCallToAction = 'Join the fanmail response list.'
 
 // Calendly: Update the calls to action with your own
-const meetingCallToAction = 'Meet Luca's GF.'
+const meetingCallToAction = 'Meet Lucas GF.'
 const meetingButtonText = 'Schedule a meeting.'
 
 
