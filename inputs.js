@@ -38,7 +38,7 @@ const tiktokLink = 'https://tiktok.com'
 const discordLink = 'https://discord.com'
 
 // 4. Update header and description texts:
-const headerText = 'The number 1 place to join the Luca fan club.' // One-line description of what you will offer customers
+const headerText = 'The number 1 place to dote on Luca.' // One-line description of what you will offer customers
 const descriptionText = 'Tell him he's awesome, tell him you love him.' // More detailed description of what you will offer customers
 
 // 5. Update contact email:
