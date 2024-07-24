@@ -8,7 +8,7 @@ const calendlyLink = 'https://calendly.com/bettyhudl'
 /*
 Step 8: Adding your logo
 */
-const logoFileName = 'untitleddesign.png'
+const logoFileName = 'Untitled design.png'
 
 /*
 Step 9: Website Content and Branding
