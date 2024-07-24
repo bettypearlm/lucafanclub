@@ -25,7 +25,7 @@ Black HEX color code: #000000
 const companyName = 'THE OFFICIAL LUCA FAN CLUB'
 const companyNameColor = '#7AC32F'
 
-const buttonBackgroundColor = '7AC32F'
+const buttonBackgroundColor = '#7AC32F'
 const buttonTextColor = '#FFFFFF' // Make this either black (#000000) or white (#FFFFFF) depending on what is easiest to read on your button color of choice
 
 // 3. Update social media links:
@@ -53,11 +53,11 @@ const pageTextColor = '#000000'
 const socialMediaCallToAction = 'Find us on social media'
 
 // Waitlist: Update the call to action with your own
-const waitlistCallToAction = 'Join the fanmail response list'
+const waitlistCallToAction = 'Join the fanmail response list.'
 
 // Calendly: Update the calls to action with your own
-const meetingCallToAction = 'Meet Luca's GF'
-const meetingButtonText = 'Schedule a meeting'
+const meetingCallToAction = 'Meet Luca's GF.'
+const meetingButtonText = 'Schedule a meeting.'
 
 
 
